@@ -1,0 +1,24 @@
+contact section.contact {
+  padding: 50px 0px 50px 0px;
+}
+contact section.contact h1.contact-title {
+  text-align: center;
+}
+contact section.contact .card-container {
+  font-size: 16px;
+  padding: 25px 10px 10px 10px;
+}
+contact section.contact .card-container .contact-card {
+  height: 180px;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  position: relative;
+  padding: 10px 10px 10px 10px;
+}
+contact section.contact .card-container .contact-card .card-content {
+  overflow-wrap: break-word;
+  padding: 5px 5px 5px 5px;
+}
+contact section.contact .card-container .contact-card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
