@@ -1,0 +1,7 @@
+:root .$fa-css-prefix-rotate-90,
+:root .$fa-css-prefix-rotate-180,
+:root .$fa-css-prefix-rotate-270,
+:root .$fa-css-prefix-flip-horizontal,
+:root .$fa-css-prefix-flip-vertical {
+  filter: none;
+}
