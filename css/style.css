@@ -1119,8 +1119,6 @@ contact section.contact .card-container {
 }
 contact section.contact .card-container .contact-card {
   height: 180px;
-  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
-  transition: 0.3s;
   position: relative;
   padding: 10px 10px 10px 10px;
 }
@@ -1128,9 +1126,10 @@ contact section.contact .card-container .contact-card .card-content {
   overflow-wrap: break-word;
   padding: 5px 5px 5px 5px;
 }
-contact section.contact .card-container .contact-card:hover {
-  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+#contact-icon {
+  font-size: 120px;
+  color: #f03838;
 }
-.my-icon {
-  font-family: 'FontAwesome';
+#contact-icon:hover {
+  color: #9e9e9e;
 }
