@@ -3502,6 +3502,7 @@ contact section.contact .card-container .contact-card:hover {
   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
 }
 .my-icon {
+  font-family: 'FontAwesome';
   display: inline-block;
   font: normal normal normal 14px/1 FontAwesome;
   font-size: inherit;

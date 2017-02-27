@@ -22,3 +22,6 @@ contact section.contact .card-container .contact-card .card-content {
 contact section.contact .card-container .contact-card:hover {
   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
 }
+.my-icon {
+  font-family: 'FontAwesome';
+}
